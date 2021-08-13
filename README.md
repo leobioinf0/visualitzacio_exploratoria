@@ -1,0 +1,2 @@
+# visualitzacio_exploratoria
+S04-T01-Visualitzacio_grafica_dun_dataset
